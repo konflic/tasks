@@ -15,7 +15,7 @@
   },
   "counties": [
     {
-      "name": "CLAY COUNTY", 
+      "name": "CLAY", 
       "data": {
           "total_tiv": 8888888,
           "avg_tiv": 8888888,
@@ -31,10 +31,14 @@
           }
       }
     },
-    ...
+    {
+      "name": "SUWANNEE",
+      ...
+    }
   ]
 }
 ```
 3. 8888888 is just a dummy value, you should calculate your own.
 4. you should ccalculate data for each county in dataa set.
 5. Provide a pull request with script and result.json file. *Do not include the data.csv file!*
+6. Note that word COUNTY should not be included in name of county item.
