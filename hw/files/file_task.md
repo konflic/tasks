@@ -43,3 +43,4 @@
 5. Provide a pull request with script and result.json file. 
 6. **Do not include the data.csv file!**
 7. Note that word COUNTY **should not be included** in name of county item.
+8. Use DictReader and DictWriter methods (https://docs.python.org/3/library/csv.html?highlight=csv#csv.DictReader, https://docs.python.org/3/library/csv.html?highlight=csv#csv.DictWriter)
