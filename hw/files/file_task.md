@@ -1,4 +1,4 @@
-## Working with files assingment
+## Working with files assignment
 
 1. Download file from http://spatialkeydocs.s3.amazonaws.com/FL_insurance_sample.csv.zip or dowload here from data.csv
 2. Write a script that parses this data file and aas aa aresult creates a result.json file with content:
