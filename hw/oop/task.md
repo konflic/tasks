@@ -25,3 +25,9 @@ z = Zebra("Zelda", 30)
 d.say() # -> Hi, I am Dolphin Zelda and I am 30!
 z.say() # -> Hi, I am Zebra Zelda and I am 30!
 ```
+
+### Req
+1. Assingment should be passed as Pull-request
+2. Create a separate folder in your repo called hw_oop
+3. Each in separate files. ex1.py and ex2.py inside folder.
+4. PR should be merged ONLY after approval.
