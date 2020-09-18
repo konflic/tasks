@@ -22,7 +22,7 @@ Write a probram with a mother class Animal. Inside it define a constructor with 
 d = Dolphin("Chuck", 20)
 z = Zebra("Zelda", 30)
 
-d.say() # -> Hi, I am Dolphin Chuck and I am 30!
+d.say() # -> Hi, I am Dolphin Chuck and I am 20!
 z.say() # -> Hi, I am Zebra Zelda and I am 30!
 ```
 
