@@ -9,7 +9,7 @@ Write a program that defines a shape class with a constructor that gives value t
 triangle = Triangle(w=10, h=12)
 rectangle = Rectangle(w=10, h=12)
 
-print(triangle.area()) # -> 
+print(triangle.area()) # -> 60
 print(rectangle.area()) # -> 120
 ```
 
