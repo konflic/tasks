@@ -1,7 +1,9 @@
 # Excerises for loop usage.
 
+In all excercises use input() function to let your programms accept data from user.
+
 ```
-1. Using a loop create a list that contains only even numbers that has 5 in it from range 1 up to 1000 (for example 150 will be in that list, but 105 will not).
+1. Using a loop create a list that contains only even numbers that has 5 in it from range given by user (for example 150 will be in that list, but 105 will not). Programm asks user to give a start and end range values.
 
 2. Write a Python program that prints each item and its corresponding type from the following list.
 Sample List: datalist = [1452, 11.23, 1+2j, True, 'w3resource', (0, -1), [5, 12], {"class":'V', "section":'A'}]
@@ -25,6 +27,4 @@ Sample Data: Python 3.2
 Sample Output:
 Letters 6
 Digits 2
-
-Use input() function to let your programms accept data from user.
 ```
