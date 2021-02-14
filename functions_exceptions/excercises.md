@@ -34,29 +34,29 @@ If even is True function return list of even numbers, elese odd numbers.
 5. Write function _is_palindrome(word: str) -> bool_ that checks if word is palindrome.
 
 ```python
-is_palindrome("aba")
->>> True
-is_palindrome("what?")
->>> False
+>>> is_palindrome("aba")
+True
+>>> is_palindrome("what?")
+False
 ```
 
 6. Write function _add_separator(string: str, separator: str) -> str_ that adds separator to each word of given string, but ignores spaces and special characters like ".", or "-", separator should be aded only into words. Word should not start or end with separator.
 
 ```python
-add_separator("Hello", "*")
->>> H*e*l*l*o
-add_separator("Hey, how are you?")
->>> H*e*y, h*o*w a*r*e y*o*u?
+>>> add_separator("Hello", "*")
+H*e*l*l*o
+>>> add_separator("Hey, how are you?")
+H*e*y, h*o*w a*r*e y*o*u?
 ```
 
 7. Using _try except_ write a function _safe_get(lst: list, position: pos, safe: bool = True) -> Any_ that returns element by position in the list or None if safe is True, else throws Exception with message "Only len(lst) elements in given list."
 
 ```python
-my_list = ["a", "1", 100, 1.00, False]
-safe_get(my_list, 1)
->>> a
-safe_get(my_list, 10)
->>> Traceback (most recent call last):
+>>> my_list = ["a", "1", 100, 1.00, False]
+>>> safe_get(my_list, 1)
+a
+>>> safe_get(my_list, 10)
+Traceback (most recent call last):
   File "...", line 1, in <module>
     ...
 Exception: Only 5 elements in given list.
