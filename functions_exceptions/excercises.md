@@ -12,7 +12,7 @@
 10
 ```
 
-2. Write function according to following signature _get_range_numbers(begin: int, end: end, even: bool = True) -> list_. 
+2. Write function according to following signature _get_range_numbers(begin: int, end: int, even: bool = True) -> list_. 
 If even is True function return list of even numbers, elese odd numbers.
 
 ```python
