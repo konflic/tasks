@@ -1,4 +1,4 @@
-# Functions and exceptions practice
+# Functions and exceptions practice session
 
 1. Write function according to following signature _print_range(begin: int, end:int, reverse: bool = False)_ that prints range of numbers from begin to end to the screen. If reverse is True then function should print numbers from end to begin.
 
@@ -33,7 +33,7 @@ print(rnd_list)
 
 5. Write function _is_palindrome(word: str) -> bool_ that checks if word is palindrome.
 
-```
+```python
 is_palindrome("aba")
 >>> True
 is_palindrome("what?")
@@ -42,7 +42,7 @@ is_palindrome("what?")
 
 6. Write function _add_separator(string: str, separator: str) -> str_ that adds separator to each word of given string, but ignores spaces and special characters like ".", or "-", separator should be aded only into words. Word should not start or end with separator.
 
-```
+```python
 add_separator("Hello", "*")
 >>> H*e*l*l*o
 add_separator("Hey, how are you?")
