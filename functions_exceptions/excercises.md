@@ -49,7 +49,7 @@ add_separator("Hey, how are you?")
 >>> H*e*y, h*o*w a*r*e y*o*u?
 ```
 
-7. Using _try except_ write a function _safe_get(lst: list, position: pos, safe: bool = True) -> Any_ that returns element by position in the list or None if safe is True, else throws Exception with message "Only len(lst) elements available in given list."
+7. Using _try except_ write a function _safe_get(lst: list, position: pos, safe: bool = True) -> Any_ that returns element by position in the list or None if safe is True, else throws Exception with message "Only len(lst) elements in given list."
 
 ```python
 my_list = ["a", "1", 100, 1.00, False]
