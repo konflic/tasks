@@ -50,3 +50,14 @@ add_separator("Hey, how are you?")
 ```
 
 7. Using _try except_ write a function _safe_get(lst: list, position: pos, safe: bool = True) -> Any_ that returns element by position in the list or None if safe is True, else throws Exception with message "Only len(lst) elements available in given list."
+
+```python
+my_list = ["a", "1", 100, 1.00, False]
+safe_get(my_list, 1)
+>>> a
+safe_get(my_list, 10)
+>>> Traceback (most recent call last):
+  File "...", line 1, in <module>
+    ...
+Exception: Only 5 elements in given list.
+```
