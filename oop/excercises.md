@@ -10,6 +10,8 @@ Create a Temperature class that is initialized by celsius or by farenheight of b
 
 It should not be possible to set value of temperature below absolute zero!
 
+After creating an instance of class Temperature it should not be possible to change any attributes.
+
 ```python
 temp_1 = Temperature(celsius=37.0)
 temp_2 = Temperature(fahrenheit=98.6)
