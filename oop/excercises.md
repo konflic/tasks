@@ -1,9 +1,5 @@
 # Practice Session for OOP
 
-## Animals
-
-Create hierarchy of classes tha
-
 ## Temperature class
 
 Create a Temperature class that is initialized by celsius or by farenheight of by kelvin value, and then makes other temperatures available as attributes.
