@@ -8,6 +8,8 @@ Create hierarchy of classes tha
 
 Create a Temperature class that is initialized by celsius or by farenheight of by kelvin value, and then makes other temperatures available as attributes.
 
+It should not be possible to set value of temperature below absolute zero!
+
 ```python
 temp_1 = Temperature(celsius=37.0)
 temp_2 = Temperature(fahrenheit=98.6)
