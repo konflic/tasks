@@ -11,9 +11,16 @@ Add new functionality to your GNG, to persist some data about player.
 5. **Optional Task:** add track of how many guesses user made during all game sessions, to calculate statistics of average guess_score = total_guesses / amout_games.
 
 
-## Ex 2 (json): 
+## Ex 2: 
 
-:TODO
+Write a script that will parse example.json, and extract name, email, age for each user and save it into new .csv file in the following format:
+
+```csv
+name,age,email
+Donald Cook,50,donald@gmail.com
+Gevin Belson,49,gavin.b@hooli.com
+...
+```
 
 ## Ex 3 (csv):
 
