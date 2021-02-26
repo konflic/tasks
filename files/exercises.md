@@ -22,13 +22,35 @@ Gevin Belson,49,gavin.b@hooli.com
 ...
 ```
 
-## Ex 3 (csv):
+## Ex 3:
 
-Write a script that parse exmaple.json and outputs to console following information:
+Write a script that parse exmaple.csv and outputs to console following information:
 ```
 Total balances: $1,000,000
 Female: $500,000.00
 Male: $500,000.00
 Femave avg: $33,333.00
 Male avg: $33,331.00
+```
+
+## Ex 4:
+
+Write a script that parse sometext.txt file and outputs:
+```
+Total words in file: 4562
+Total caracters: 20123
+Avg words per line: 10.4
+Avg len of word: 8.3
+```
+Note that all stats should exclude punctutation!
+
+## Ex 5:
+
+Write a script that parse sometext.txt and saves to json file word count statistics:
+```
+{
+  "on": 342,
+  "dog": 234,
+  ...
+}
 ```
