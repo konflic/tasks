@@ -24,4 +24,11 @@ Gevin Belson,49,gavin.b@hooli.com
 
 ## Ex 3 (csv):
 
-:TODO
+Write a script that parse exmaple.json and outputs to console following information:
+```
+Total balances: $1,000,000
+Female: $500,000.00
+Male: $500,000.00
+Femave avg: $33,333.00
+Male avg: $33,331.00
+```
