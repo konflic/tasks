@@ -13,7 +13,7 @@ Add new functionality to your GNG, to persist some data about player.
 
 ## Ex 2: 
 
-Write a script that will parse example.json, and extract name, email, age for each user and save it into new .csv file in the following format:
+Write a script that will parse sample.json, and extract name, email, age for each user and save it into new .csv file in the following format:
 
 ```csv
 name,age,email
@@ -24,7 +24,7 @@ Gevin Belson,49,gavin.b@hooli.com
 
 ## Ex 3:
 
-Write a script that parse exmaple.csv and outputs to console following information:
+Write a script that parse sample.csv and outputs to console following information:
 ```
 Total balances: $1,000,000
 Female: $500,000.00
