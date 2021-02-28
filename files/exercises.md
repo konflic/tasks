@@ -24,7 +24,7 @@ Gevin Belson,49,gavin.b@hooli.com
 
 ## Ex 3:
 
-Write a script that parse sample.csv and outputs to console following information:
+Write a script that parse sample.json and outputs to console following information:
 ```
 Total balances: $1,000,000
 Female: $500,000.00
@@ -51,6 +51,20 @@ Write a script that parse sometext.txt and saves to json file word count statist
 {
   "on": 342,
   "dog": 234,
+  ...
+}
+```
+
+## Ex 6:
+
+Parse sample.csv file and save to json the following information for each country.
+
+```
+{
+  "Canada": {
+    "Total Gross Sales": "$1,000,000",
+    "Total Profit": "$100,000"
+  },
   ...
 }
 ```
