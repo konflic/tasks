@@ -1,6 +1,6 @@
 # Files exercises
 
-## Exercise 1: User data in "Guess number game" (GNG)
+## Ex 1: User data in "Guess number game" (GNG)
 
 Add new functionality to your GNG, to persist some data about player.
 
