@@ -1,8 +1,12 @@
 # Exercises for virtualenv practice
 
-In each exercise setup new project with separate virtual environment. Save your dependencies in requirements.txt file and use .gitignore to avoid commiting useleff files.
+In each exercise: 
 
-Create repo and publish your final project in github.com, fill in README.md with description for each project.
+* Setup new project with separate virtual environment
+* Save your dependencies in requirements.txt file
+* Use .gitignore to avoid commiting useleff files
+* Create repo and publish your final project in github.com
+* Fill in README.md with description for each project
 
 ### 1. Setup and run Flask application
 
