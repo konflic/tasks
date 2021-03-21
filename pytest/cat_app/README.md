@@ -33,10 +33,10 @@ cat = Cat(83, 'Molly')
 print(cat.meow())
 print(cat.get_name())
 
->> > 'AbstractCat (14)'
->> > 'SnoreSnoreSnoreSnore'
->> > 'MEOW...'
->> > 'Molly'
+>>> 'AbstractCat (14)'
+>>> 'SnoreSnoreSnoreSnore'
+>>> 'MEOW...'
+>>> 'Molly'
 ```
 
 Example 2
