@@ -14,4 +14,7 @@ Get information about API spec from documentation.
 
 Your tests shoul be hosted in separate project.
 
-You should be able to pass base URL for the tests.
+You should be able to pass base URL for the tests like this:
+```
+pytest --url http://localhost:5000
+```
