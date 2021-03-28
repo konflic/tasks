@@ -2,4 +2,12 @@
 
 In this task you will run the application locally and then test its api.
 
-Application: https://github.com/konflic/api_example
+1. Setup and Run api application on your local machine: https://github.com/konflic/api_example
+
+Write 4 test-cases:
+1. Admin valid authorization of user
+2. Adding new user to database
+3. Updating user grade
+4. Removing user from database
+
+Get information about API spec from documentation.
