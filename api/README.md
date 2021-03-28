@@ -11,3 +11,7 @@ Write 4 test-cases:
 4. Removing user from database
 
 Get information about API spec from documentation.
+
+Your tests shoul be hosted in separate project.
+
+You should be able to pass base URL for the tests.
