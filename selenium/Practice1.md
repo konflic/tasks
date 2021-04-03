@@ -1,5 +1,7 @@
 # Selenium practice 1
 
+Use https://demo.opencart.com for practice.
+
 1. Create new github project with basic setup (README.md, .gitignore)
 2. In new branch ```basic_setup``` create the following: 
   - In conftest.py create browser fixture with finalizer. 
