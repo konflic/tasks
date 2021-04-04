@@ -6,6 +6,7 @@ Use https://demo.opencart.com for practice.
 2. In new branch ```basic_setup``` create the following: 
   - In conftest.py create browser fixture with finalizer. 
   - Make options for pytest```--browser``` and ```--url``` to control opening provided url and browser.
+4. Minimal browser set (firefox, chrome) 
 3. Merge this changes into main/master branch.
   - In new branch ```first_tests``` write tests for opencart application: 
   - Test that checks availability of all links on top-bar in opencart.
