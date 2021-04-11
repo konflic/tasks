@@ -9,3 +9,4 @@
 
 1. In this task you should manually install docker on your machine: https://docs.docker.com/get-docker/
 2. Follow instruction in video https://www.youtube.com/watch?v=xPqrJVDI45s try to run opencart application locally.
+3. After this run your tests on local opencart, they should work like on https://demo.opencart.com
